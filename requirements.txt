@@ -1,0 +1,8 @@
+streamlit==1.67.0
+altair==6.3.0
+scikit-learn==1.9.1
+pandas==3.1.1
+numpy==2.5.5
+matplotlib==3.11.2
+seaborn==0.13.2
+xlrd==2.0.2
